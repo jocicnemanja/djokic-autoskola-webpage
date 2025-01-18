@@ -1,0 +1,30 @@
+@use "sass:meta";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @include meta.load-css("base");
+}
+
+@layer components {
+  @include meta.load-css("components");
+  @include meta.load-css("navigation");
+  @include meta.load-css("buttons");
+  @include meta.load-css("search");
+}
+
+@layer utilities {
+  @include meta.load-css("utilities");
+}
+
+@media (max-width: 768px) {
+  .hero-image {
+    width: 100%;
+    height: 60vh;
+    object-fit: cover;
+    object-position: 70%;
+  }
+}
+
+
