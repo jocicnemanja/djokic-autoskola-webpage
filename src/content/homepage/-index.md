@@ -2,48 +2,38 @@
 # Banner
 banner:
   title: "UNIKATNA VRATA PO MERI"
-  content: "Najbolja stolarija po najboljoj ceni"
-  image: "/images/banner.jpg"
+  content: 🚗 Vaša prva stanica na putu do vozačke dozvole! 🚦"
+  image: "/images/car-banner.png"
   button:
     enable: true
-    label: "POGLEDAJTE PONUDU"
-    link: "https://online.fliphtml5.com/ibycn/kyha/#p=1"
+    label: "Pozovite"
+    link: ""
 
 # Features
 features:
-  - title: "Premium vrata za svaki prostor – Dizajn i izdržljivost u savršenom balansu!"
-    image: "/images/a.jpg"
-    content: "Predstavljamo vam vrata od medijapana presvučena vrhunskom CPL laminatnom folijom, koja pruža izuzetno visok nivo zaštite površine. Sa italijanskim dizajnom i modernom magnetnom bravom uključenom u standardnu ponudu, ovaj model je savršen spoj elegancije i funkcionalnosti."
+  - title: "Zašto odabrati Auto-školu Đokić?"
+    image: "/images/b.png"
+    content: "Auto-škola Đokić je mesto gde se znanje, iskustvo i posvećenost spajaju kako bi vam pružili najbolju obuku za vožnju. Naš tim licenciranih instruktora posvećen je tome da vas osposobi ne samo za polaganje vozačkog ispita, već i za sigurno i samouvereno upravljanje vozilom u svim situacijama."
     bulletpoints:
-      - "Izuzetna izdržljivost – Pogodna za stambene, poslovne i javne objekte, čak i uz intenzivnu upotrebu"
-      - " Savršen odnos cene i kvaliteta – Dizajnirana da zadovolje najviše standarde po pristupačnoj ceni."
-      - "Univerzalna primena – Idealna za prostore koji zahtevaju pouzdanost i stil."
-      - "Unesite sofisticiranost i trajnost u vaš prostor uz vrata koja ostavljaju utisak!"
-
+      - "Individualan pristup: Prilagođavamo obuku vašim potrebama i tempu učenja."
+      - "Savremena vozila: Učite vožnju na vozilima najnovije generacije, osmišljenim da pruže maksimalnu sigurnost i udobnost."
+      - "Fleksibilni termini: Razumemo vaš zauzet raspored, zato nudimo termine obuke koji se uklapaju u vaš svakodnevni život."
+      - "Pristupačne cene: Kvalitetna obuka po cenama koje odgovaraju svakom budžetu."
+      - "Pridružite se brojnim zadovoljnim polaznicima i započnite svoju vozačku avanturu s nama! 🎯"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  # - title: "Prirodna elegancija za vaš prostor – Vrata koja osvajaju stilom i kvalitetom!"
-  #   image: "/images/c.jpg"
-  #   content: "Naša vrata, izrađena od drveta i medijapana, završno obložena vrhunskim furnirom hrasta ili oraha, predstavljaju savršen spoj prirodne lepote i moderne funkcionalnosti. Izaberite između vertikalne ili horizontalne orijentacije godova kako biste upotpunili izgled vašeg enterijera."
-  #   bulletpoints:
-  #     - "Prirodna toplina drveta – Furnir hrasta ili oraha za klasičnu ili savremenu estetiku."
-  #     - "Izuzetna čvrstoća – Sa drvenim dovratnikom i ramom vratnog krila, osiguravaju dugotrajnost i stabilnost."
-  #     - "Fleksibilnost dizajna – Prilagođena za sve tipove objekata, bilo da je u pitanju prirodan ili moderan stil."
-  #   button:
-  #     enable: true
-  #     label: "Get Started Now"
-  #     link: "https://github.com/zeon-studio/astroplate"
-
-  - title: "Prirodna elegancija za vaš prostor – Vrata koja osvajaju stilom i kvalitetom!"
+  - title: "Kako do vozačke dozvole u Auto-školi Đokić?"
     image: "/images/b.jpg"
-    content: "Naša vrata, izrađena od drveta i medijapana, završno obložena vrhunskim furnirom hrasta ili oraha, predstavljaju savršen spoj prirodne lepote i moderne funkcionalnosti. Izaberite između vertikalne ili horizontalne orijentacije godova kako biste upotpunili izgled vašeg enterijera."
+    content: ""
     bulletpoints:
-      - "Prirodna toplina drveta – Furnir hrasta ili oraha za klasičnu ili savremenu estetiku."
-      - "Izuzetna čvrstoća – Sa drvenim dovratnikom i ramom vratnog krila, osiguravaju dugotrajnost i stabilnost."
-      - "Fleksibilnost dizajna – Prilagođena za sve tipove objekata, bilo da je u pitanju prirodan ili moderan stil."
+      - "1️⃣ Prijava i dokumentacija. Prvi korak ka vašoj vozačkoj dozvoli je prijava u našoj auto-školi. Naš ljubazni tim će vam pomoći oko svih potrebnih dokumenata i postupaka."
+      - "2️⃣ Teorijska obuka.Kroz interaktivne časove i modernu tehnologiju, naučićete pravila saobraćaja, saobraćajne znakove i sve što je potrebno za sigurno učestvovanje u saobraćaju."
+      - "3️⃣ Praktična obuka.Uz stručne instruktore, vozićete na različitim vrstama terena, od gradskih ulica do otvorenih puteva, sve dok ne steknete sigurnost i veštinu."
+      - 4️⃣ Polaganje ispita.Nakon završene obuke, naš tim će vas detaljno pripremiti za teorijski i praktični ispit kako biste ga položili iz prvog puta.
+      - 🚗 Vaša vozačka dozvola je na dohvat ruke! Prijavite se već danas i postanite deo porodice zadovoljnih vozača Auto-škole Đokić!
     button:
       enable: false
       label: ""
